@@ -3,5 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git diff test.
-Creating a new branch is quick.
 Testing branch in different Repository.
+Creating a new branch is quick and simple.
+
